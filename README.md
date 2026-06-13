@@ -55,9 +55,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="./assets/banner-footer.png" alt="Footer" width="100%" />
-  <sub>made with ❤️ and too much caffeine</sub>
-</div>
