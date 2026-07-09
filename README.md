@@ -27,12 +27,12 @@
 ### 📊 My GitHub in numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaitoooooooooooooooooooo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitoooooooooooooooooooo&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=kaitoooooooooooooooooooo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=kaitoooooooooooooooooooo&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kaitoooooooooooooooooooo&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=kaitoooooooooooooooooooo&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-[![pokemon-app](https://github-readme-stats.vercel.app/api/pin/?username=kaitoooooooooooooooooooo&repo=pokemon-app&theme=tokyonight&hide_border=true)](https://github.com/kaitoooooooooooooooooooo/pokemon-app)
+[![pokemon-app](https://github-readme-stats-eight.vercel.app/api/pin/?username=kaitoooooooooooooooooooo&repo=pokemon-app&theme=tokyonight&hide_border=true)](https://github.com/kaitoooooooooooooooooooo/pokemon-app)
 
 </div>
 
@@ -54,4 +54,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-kaitoooooooooooooooooooo-181717?style=for-the-badge&logo=github)](https://github.com/kaitoooooooooooooooooooo)
 
 </div>
-
