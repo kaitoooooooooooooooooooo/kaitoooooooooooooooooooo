@@ -27,12 +27,10 @@
 ### 📊 My GitHub in numbers
 
 <div align="center">
-  <img src="./profile/metrics.svg" alt="GitHub metrics" width="100%" />
+  <img src="./profile/metrics.svg" alt="GitHub metrics" width="70%" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kaitoooooooooooooooooooo&theme=tokyonight&hide_border=true" height="160" />
-</div>
+
 
 ---
 
